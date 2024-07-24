@@ -1,0 +1,24 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "guitar fundamental",
+            "slug": "guitar fundamental",
+            "description": "learn the besics of playing guitar with our comprahensive beginener's cousrse",
+            "price": 99.99,
+            "instructor": "john Doe",
+            "isfetured":true,
+            "image" : "/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "piyano fundamental",
+            "slug": "piyano fundamental",
+            "description": "learn the besics of playing piyano with our comprahensive beginener's cousrse",
+            "price": 99.99,
+            "instructor": "john Doe",
+            "isfetured":true,
+            "image" : "/courses/piyano.jpg"
+        }
+    ]
+}
