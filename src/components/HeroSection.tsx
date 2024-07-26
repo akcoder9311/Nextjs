@@ -1,7 +1,8 @@
+"use client";
 import React from 'react';
 import Link from 'next/link';
-import { Spotlight } from './Spotlight';
-import { Button } from "../ui/moving-border";
+import { Spotlight } from './ui/Spotlight';
+import { Button } from "./ui/moving-border";
 
 function HeroSection(props:any) {
     return (
@@ -22,7 +23,7 @@ function HeroSection(props:any) {
                         <Link href={"/Courses"}>
                         <Button 
                         borderRadius='1.75rem'
-                        className='bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800'
+                        className='bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800 md:text-transparent'
                         >Explore courses</Button>
                         </Link>
                     </div>
