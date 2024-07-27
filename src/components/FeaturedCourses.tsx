@@ -23,7 +23,7 @@ function FeaturedCourses() {
         <div className='text-white text-center py-12 bg-gray-800 '>
            <div className='text-center'>
            <h1 className='text-2xl text-green-700 font-semibold'>FEATURED COURSES</h1>
-           <p className='text-4xl text-white font-bold mt-4'>Learn With The Best</p>
+           <p className='text-4xl text-white font-bold mt-4'>Enhance Your Musical Jouney</p>
            </div>
 
            <div className='mt-10'>
